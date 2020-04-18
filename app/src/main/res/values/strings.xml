@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="hint_e_mail">E-mail</string>
+    <string name="hint_password">Password</string>
+    <string name="registration">Registration</string>
+    <string name="login">Login</string>
+    <string name="hint_message">Message</string>
+    <string name="message_has_not_been_send">Message has not been send</string>
+    <string name="sign_out">Sign out</string>
+</resources>
